@@ -6,6 +6,16 @@ body {
   
 }
 
+.name {
+  color: red;
+  font-family: Molot;
+}
+
+.firstname {
+  color: blue;
+  font-family: Molot;
+}
+
 footer {
   
 }
