@@ -1,6 +1,7 @@
 header {
   background-color: black;
-  opacity: 20%;
+  text-align: center;
+  opacity: 80%;
 }
 
 body {
@@ -11,14 +12,12 @@ body {
   color: red;
   font-size: 50px;
   font-family: Molot;
-  align-content: center;
 }
 
 .lastname {
   color: blue;
   font-size: 50px;
   font-family: Molot;
-  align-content: center;
 }
 
 footer {
