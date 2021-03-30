@@ -60,3 +60,8 @@ footer {
   color: white;
   font-size: 10px;
 }
+
+.sicial {
+  float: left;
+  border: 1px solid gray;
+}
