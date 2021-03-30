@@ -8,14 +8,16 @@ body {
 
 .name {
   color: red;
-  font-size: 25px;
+  font-size: 50px;
   font-family: Molot;
+  align-content: center;
 }
 
 .lastname {
   color: blue;
-  font-size: 25px;
+  font-size: 50px;
   font-family: Molot;
+  align-content: center;
 }
 
 footer {
