@@ -18,12 +18,13 @@
         <li class="homeRazdelMenu"> <a style="text-decoration: none;" class="textMenu" href="#"> Донаты </a> </li>
         <li class="homeRazdelMenu"> <a style="text-decoration: none;" class="textMenu" href="#"> Фриланс </a> </li>
         <li class="homeRazdelMenu"> <a style="text-decoration: none;" class="textMenu" href="#"> Стримы </a> </li>
-        <li class="Time"> <script>
-  var Time = setInterval(function() {
+        <script>
+        var Time = setInterval(function() {
   var date = new Date();
   document.getElementByClass("Time").innerHTML = (date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds() + " по Москве/Минску");
   }, 1000); 
-          </script> </li>
+        </script>
+        <li> <div id="Time">  </div> </li>
       </ul>
     </nav>
     
