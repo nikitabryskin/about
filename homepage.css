@@ -53,4 +53,10 @@ a:hover {
 footer {
   background-color: black;
   opacity: 80%;
+  text-align: center;
+}
+
+.rights {
+  color: white;
+  font-size: 10px;
 }
