@@ -8,11 +8,13 @@ body {
 
 .name {
   color: red;
+  font-size: 25px;
   font-family: Molot;
 }
 
 .lastname {
   color: blue;
+  font-size: 25px;
   font-family: Molot;
 }
 
