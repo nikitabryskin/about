@@ -33,7 +33,7 @@ body {
    float:left; /*Размещаем список горизонтально для реализации меню*/
 }
 
-a {
+.textMenu {
   text-decoration: none; /*убираем подчеркивание текста ссылок*/
   background:#FF4444; /*добавляем фон к пункту меню (заменив этот параметр, вы поменяете цвет всех пунктов меню)*/
   color:#fff; /*меняем цвет ссылок*/
@@ -46,7 +46,7 @@ a {
   -o-transition: all 0.3s 0.01s ease;
   -webkit-transition: all 0.3s 0.01s ease;
 }
-a:hover {
+.textMenu:hover {
   background:#D43737;/*добавляем эффект при наведении*/
 }
 
