@@ -50,6 +50,10 @@ body {
   background:#D43737;/*добавляем эффект при наведении*/
 }
 
+#Time {
+  font-family: Molot;
+}
+
 footer {
   background-color: black;
   opacity: 80%;
