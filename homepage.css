@@ -57,6 +57,7 @@ body {
 }
 
 footer {
+  height: 50px;
   background-color: black;
   opacity: 80%;
   text-align: center;
