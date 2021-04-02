@@ -23,15 +23,11 @@ body {
   font-family: Molot;
 }
 
-.homeMenu {
- 
-}
-
 .homeRazdelMenu {
   list-style: none; /*убираем маркеры списка*/
   margin: 0; /*убираем отступы*/
   padding-left: 0; /*убираем отступы*/
-  height: 45px; /*задаем высоту*/
+  height: 42px; /*задаем высоту*/
   float: right; /*Размещаем список горизонтально для реализации меню*/
 }
 
