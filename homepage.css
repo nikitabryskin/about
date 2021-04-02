@@ -1,6 +1,7 @@
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 
 header {
+  height: 40px;
   background-color: black;
   text-align: center;
   opacity: 80%;
@@ -48,12 +49,17 @@ body {
   -o-transition: all 0.3s 0.01s ease;
   -webkit-transition: all 0.3s 0.01s ease;
 }
+
 .textMenu:hover {
   background:#D43737;/*добавляем эффект при наведении*/
 }
 
 #Time {
   font-family: Molot;
+}
+
+.content {
+  min-height: calc(100vh - (40px + 55px));
 }
 
 footer {
