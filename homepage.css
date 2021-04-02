@@ -12,12 +12,14 @@ body {
 }
 
 .name {
+  float: left;
   color: red;
   font-size: 40px;
   font-family: Molot;
 }
 
 .lastname {
+  float: left;
   color: blue;
   font-size: 40px;
   font-family: Molot;
