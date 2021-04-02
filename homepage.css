@@ -86,24 +86,35 @@ footer {
     padding: 5px;
     color: #000;
 }
+
 .github a:hover {
   background: #191919; color: #fff;
 }
+
 .youtube a:hover {
   background: #c4302b; color: #fff;
 }
+
 .google-pluse a:hover {
   background: #DD4B39; color: #fff;
 }
+
 .discord a:hover {
-  background: #7289DA; color: #fff;
+  background: #7289DA; 
 }
+
+.discordlogo:hover {
+  color: #fff;
+}
+
 .vk a:hover {
   background: #5d84ae; color: #fff;
 }
+
 .linkedin a:hover {
   background: #0e76a8; color: #fff;
 }
+
 .telegram a:hover {
   background: #249bd7; color: #fff;
 }
