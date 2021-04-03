@@ -27,7 +27,7 @@ body {
 
 .homeRazdelMenu {
   list-style: none; /*убираем маркеры списка*/
-  display: block; /* Делаем прямоугольные блоки на весь хедер */
+  display: inline-block; /* Делаем прямоугольные блоки */
   margin: 0; /*убираем отступы*/
   padding-left: 0; /*убираем отступы*/
   height: 42px; /*задаем высоту*/
